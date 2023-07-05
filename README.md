@@ -1,2 +1,2 @@
-# hpc
-High Performance Computing documentation
+# Wiki for Penn Astro
+
