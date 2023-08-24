@@ -1,2 +1,2 @@
-# Wiki for Penn Astro
+# [Wiki for Penn Astro](https://github.com/upenn-astro/wiki/wiki)
 
