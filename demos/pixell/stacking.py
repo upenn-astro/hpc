@@ -111,7 +111,7 @@ stack = u.reduce(my_stack, comm, root=0, op=mpi4py.MPI.SUM)
 stack = enmap.enmap(stack,twcs)
 
 # We then proceed only if rank is zero, since that
-# is the process that has the final stuck
+# is the process that has the final stack
 if rank==0:
     print(my_cutout.shape)
     print(stack.shape)
